@@ -32,7 +32,7 @@ I am a dedicated Physics student at the National University of Bangladesh, focus
 
 ### 📡 Connectivity
 - **Email**: [abidhossain29130@gmail.com](mailto:abidhossain29130@gmail.com)
-- **LinkedIn**: [Abid Hossain](https://www.linkedin.com/in/abidhossain) *(Ready for connection)*
+- **LinkedIn**: [Abid Hossain](https://www.linkedin.com/in/abidhossain-physics/) *(Ready for connection)*
 - **German Learning**: Maintaining a consistent learning streak to prepare for international academic integration.
 
 *“Precision in physics, discipline in flight, and innovation in code.”*
