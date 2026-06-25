@@ -1,38 +1,54 @@
-# Abid Hossain | Physics & Quantum Computing Researcher
+# Abid Hossain | Computational Physics & AI for Science Researcher
 
-> **Aspiring Quantum Physicist | Global Quantum Mechanics Challenge (GQMC) Participant | Computational Research @ National University of Bangladesh**
+> **BSc Physics (National University of Bangladesh) | R&D Research Intern (CARSIT UK) | Global Quantum Computing Ambassador | NASA ARSET Scholar**
 
-I am a dedicated Physics student at the National University of Bangladesh, focusing on the intersection of **Quantum Computing, Post-Quantum Cryptography (PQC), and Machine Learning**. My long-term goal is to bridge the gap between theoretical physics and industrial applications through a fully funded Master’s program in Germany (DAAD focus).
-
----
-
-### 🔬 Research & Academic Interests
-- **Quantum Foundations**: Simulation of quantum systems (e.g., Infinite Square Well) and circuit design using **IBM Qiskit**.
-- **Post-Quantum Cryptography (PQC)**: Investigating cryptographic resilience in the quantum era.
-- **Computational Physics**: Utilizing Python (NumPy, Matplotlib) and R for complex numerical simulations.
-
-### 🚀 Key Projects
-- **Scholarship Hunter Engine (WIP)**: Developing an autonomous Telegram assistant focused on high-fidelity scholarship discovery and application tracking.
-- **Aviation & Discipline**: Currently a candidate for the **US-Bangla Cadet Pilot Program**, maintaining a rigorous training regimen in mental mathematics and physics shortcuts.
-- **Academic Portfolio**: A centralized hub for my undergraduate research reports and simulations.
-
-### 🛠 Technical Toolkit
-- **Languages**: Python (Advanced), LaTeX, R.
-- **Frameworks**: Qiskit, NumPy, Matplotlib, TensorFlow/Keras (Basics).
-- **Languages**: 
-  - 🇧🇩 Bangla: Native
-  - 🇬🇧 English: Fluent (IELTS Target: 7.5+)
-  - 🇩🇪 German: Basic (A1/A2) - *176+ day Duolingo streak*
-
-### 🏆 Impact & Recognition
-- **Global Quantum Mechanics Challenge (GQMC)**: Actively participating in quantum mechanics initiatives and working towards establishing outreach training at Government Tolaram College.
-- **NURSHA Fellowship Candidate**: Actively proposing undergraduate research initiatives in computational physics.
+I am an aspiring computational researcher bridging the gap between theoretical physics, satellite earth observations, and applied machine learning. My work focuses on building explainable AI models and retrieval-augmented reasoning systems to solve complex environmental and physical problems. I am currently preparing for fully funded postgraduate research opportunities (Master's/PhD) in Germany, Ireland, and Japan starting Fall 2027.
 
 ---
 
-### 📡 Connectivity
-- **Email**: [abidhossain29130@gmail.com](mailto:abidhossain29130@gmail.com)
-- **LinkedIn**: [Abid Hossain](https://www.linkedin.com/in/abidhossain-physics/) *(Ready for connection)*
-- **German Learning**: Maintaining a consistent learning streak to prepare for international academic integration.
+### 🔬 Highlighted Research Portfolio
 
-*“Precision in physics, discipline in flight, and innovation in code.”*
+#### 🌍 [Dhaka PM₂.₅ Forecasting &amp; Policy-Auditing RAG Agent](https://github.com/Abid-Hossain29130/Dhaka-PM25-Forecasting-Policy-RAG-Agent)
+
+*An end-to-end MLOps and Generative AI framework for urban environmental governance.*
+
+* **Data Fusion:** Integrated ground-level telemetry (OpenAQ), historical meteorology (Open-Meteo), and satellite reanalysis data (NASA MERRA-2).
+* **Explainable ML:** Benchmarked XGBoost, Random Forest, and Ridge Regression ($R^2 = 0.740$ benchmark) with SHAP (Shapley Additive Explanations) interpretability and 5-fold chronological validation.
+* **Geospatial Risk Mapping:** Implemented Inverse Distance Weighting (IDW) to map health risk assessments across 92 administrative Thanas in Dhaka.
+* **Policy RAG Agent:** Created a local ChromaDB vector database containing national statutory frameworks (APCR 2022, NAQMP 2024-2030) and built a Groq-orchestrated RAG LLM pipeline to generate zero-hallucination Environmental Action Advisory Briefs.
+* *Supervised by Prof. Dr. Karim Mohammed Rezaul during my research internship at the Centre for Applied Research in Software & IT (CARSIT), UK.*
+
+#### ⚛️ Quantum Computing & Foundations
+
+* **Quantum Simulation:** Python-based numerical simulations of classic quantum mechanics systems (e.g., Infinite Square Well wavefunctions).
+* **Quantum Circuits:** Designing and executing quantum algorithms and circuit architectures using the **IBM Qiskit** framework.
+
+---
+
+### 🏆 Credentials & Achievements
+
+* **Global Quantum Computing (GQMC) Ambassador:** Ranked in the **Top 5 Globally** in ambassador outreach and science communication, focused on democratizing quantum education in Bangladesh.
+* **NASA ARSET Scholar:** Completed certified technical training under the NASA Applied Remote Sensing Training (ARSET) program, focusing on *Monitoring Groundwater Changes for Water Resources Management* using GRACE-FO telemetry.
+
+---
+
+### 🛠️ Technical Toolkit
+
+* **Languages:** Python (NumPy, Pandas, Scikit-learn, XGBoost, Matplotlib), R, LaTeX
+* **Quantum & AI:** Qiskit, ChromaDB (Vector DB), Hugging Face, LLM APIs (OpenAI/Groq/Ollama)
+* **Workflow:** Git/GitHub version control, Google Colab Pro execution environments
+* **Academic Preparation:**
+  * **IELTS Academic:** In progress (Target: 7.5+)
+  * **German Language:** A1/A2 level preparation in progress
+
+---
+
+### 📡 Connectivity & Collaboration
+
+I am highly open to collaborating on projects at the intersection of computational physics, atmospheric modeling, and quantum information science.
+
+* **Email:** [abidhossain29130@gmail.com](mailto:abidhossain29130@gmail.com)
+* **LinkedIn:** [Abid Hossain](https://www.linkedin.com/in/abidhossain-physics/)
+* **ORCID / ResearchGate:** *(Profiles in preparation alongside ongoing journal submissions)*
+
+*“Transforming raw scientific observations into explainable predictive models and actionable policy.”*
