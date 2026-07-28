@@ -8,7 +8,7 @@ I am an aspiring computational researcher bridging the gap between theoretical p
 
 ### 🔬 Highlighted Research Portfolio
 
-#### 🌍 [Dhaka PM₂.₅ Forecasting &amp; Policy-Auditing RAG Agent](https://github.com/Abid-Hossain29130/Prediction-to-Policy-PM25-XAI-RAG-Framework)
+#### 🌍 [Prediction-to-Policy-PM25-XAI-RAG-Framework](https://github.com/Abid-Hossain29130/Prediction-to-Policy-PM25-XAI-RAG-Framework)
 
 *An end-to-end MLOps and Generative AI framework for urban environmental governance.*
 
